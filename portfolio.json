@@ -1,0 +1,189 @@
+{
+  "name": "Dhanush M.",
+  "role": "Data Engineer",
+  "experience": "2 years 6 months",
+  "headline": "Data Engineer | Snowflake | dbt | SQL | Python | Databricks | Workato",
+  "tagline": "Building scalable data pipelines, transforming complex data, and delivering reliable analytics solutions.",
+  "about": "I am a Data Engineer with 2 years and 6 months of experience building and optimizing data pipelines, ELT workflows, and analytics-ready data models. My work spans Snowflake, dbt, SQL, Python, Fivetran, AWS S3, Databricks, Workato, and BI tools. I have contributed to projects across education technology, fitness and wellness, energy, and travel management.",
+  "email": "dhanush22499@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/dhanush-m-2bb101252",
+  "github": "https://github.com/Dhanus-m",
+  "photo": "assets/profile.jpg",
+  "resume": "",
+  "skills": [
+    {
+      "group": "Programming & Querying",
+      "items": [
+        "SQL",
+        "Python"
+      ]
+    },
+    {
+      "group": "Data Warehousing",
+      "items": [
+        "Snowflake"
+      ]
+    },
+    {
+      "group": "Transformation",
+      "items": [
+        "dbt",
+        "dbt Cloud",
+        "dbt Orchestrator",
+        "Jinja"
+      ]
+    },
+    {
+      "group": "Orchestration & Integration",
+      "items": [
+        "Workato",
+        "Dagster (hands-on)",
+        "Fivetran"
+      ]
+    },
+    {
+      "group": "Cloud & Platforms",
+      "items": [
+        "AWS S3",
+        "Databricks"
+      ]
+    },
+    {
+      "group": "BI & Data Sources",
+      "items": [
+        "Domo",
+        "Power BI",
+        "Salesforce",
+        "REST APIs"
+      ]
+    }
+  ],
+  "experienceItems": [
+    {
+      "company": "GWC Data.AI",
+      "role": "Data Engineer",
+      "dates": "April 2026 \u2013 Present",
+      "description": "Build and optimize data engineering workflows, transformations, integrations, and analytics-ready data models."
+    },
+    {
+      "company": "GWC Data.AI",
+      "role": "Associate Data Analyst",
+      "dates": "June 2024 \u2013 May 2026",
+      "description": "Worked on data analysis, data integration, ETL workflows, reporting, and supporting data solutions across client projects."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Curriculum Associates",
+      "domain": "Education Technology",
+      "description": "Migrated 100+ Snowflake stored procedure transformations to dbt, organized models into Upstream, Core Transformation, and Downstream layers, and worked with incremental models, macros, seeds, AWS S3, and Snowflake Iceberg / external tables.",
+      "highlights": [
+        "100+ stored procedure transformations migrated",
+        "Three-layer dbt architecture",
+        "Incremental models, macros and seeds"
+      ],
+      "stack": [
+        "Snowflake",
+        "dbt",
+        "dbt Cloud",
+        "AWS S3",
+        "Fivetran",
+        "SQL",
+        "Salesforce"
+      ]
+    },
+    {
+      "name": "WynActive",
+      "domain": "Fitness & Wellness",
+      "description": "Built scheduled Python ingestion from the Perfect Gym API into Snowflake, transformed nested JSON data with dbt, and developed membership lifecycle models for analytics and Power BI reporting.",
+      "highlights": [
+        "2M+ records handled",
+        "Membership lifecycle modelling",
+        "Data tests, freshness and documentation"
+      ],
+      "stack": [
+        "Snowflake",
+        "dbt",
+        "Python",
+        "SQL",
+        "Power BI",
+        "REST API"
+      ]
+    },
+    {
+      "name": "Fluence Energy",
+      "domain": "Energy",
+      "description": "Worked on Salesforce-to-Snowflake data modelling across leads, opportunities, accounts, and activities. Developed staging, intermediate, and reporting layers, snapshots, incremental models, and Domo reporting datasets.",
+      "highlights": [
+        "Salesforce data integration",
+        "Snapshots and incremental models",
+        "Domo reporting datasets"
+      ],
+      "stack": [
+        "Snowflake",
+        "dbt",
+        "SQL",
+        "Salesforce",
+        "Domo",
+        "Jinja"
+      ]
+    },
+    {
+      "name": "Take 2 Eton",
+      "domain": "Travel Management",
+      "description": "Designed scalable ETL workflows in Domo and delivered dashboards covering travel spend, booking analytics, and contract performance.",
+      "highlights": [
+        "Scalable Domo ETL workflows",
+        "Travel spend analysis",
+        "Booking and contract performance dashboards"
+      ],
+      "stack": [
+        "Domo",
+        "ETL",
+        "Data Integration",
+        "Data Transformation",
+        "BI"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Databricks Certified Data Engineer Professional",
+      "issued": "August 2025",
+      "validity": "Expires August 2027"
+    },
+    {
+      "name": "Databricks Certified Data Engineer Associate",
+      "issued": "June 2025",
+      "validity": "Expires June 2027"
+    },
+    {
+      "name": "Claude Certified Architect",
+      "issued": "May 2026",
+      "validity": ""
+    }
+  ],
+  "education": {
+    "degree": "BCA, Computer Science",
+    "institution": "Islamiah College (Autonomous), Vaniyambadi",
+    "affiliation": "Affiliated to Thiruvalluvar University",
+    "year": "2024"
+  },
+  "earlyExperience": [
+    {
+      "company": "TechnoHacks EduTech",
+      "role": "Data Analyst",
+      "dates": "February \u2013 March 2024"
+    },
+    {
+      "company": "LetsGrowMore",
+      "role": "Data Scientist",
+      "dates": "February \u2013 March 2024"
+    },
+    {
+      "company": "The Sparks Foundation",
+      "role": "Web Developer",
+      "dates": "January 2024"
+    }
+  ]
+}
